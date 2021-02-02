@@ -1,2 +1,2 @@
-# dbsc
+# DBSC
 Domain Based Spell Checker
